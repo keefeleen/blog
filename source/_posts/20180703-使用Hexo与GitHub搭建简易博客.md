@@ -14,14 +14,15 @@ tags:
 
 ### GitHub Pages
 
-[GitHub Pages](https://pages.github.com/) 是 GitHub 所提供的免费博客托管平台，并且有 GitHub 免费提供的域名（https://username.github.io/）。所以很大程度上减少了维护一个个人博客的成本。其本质上来说，就是静态网站的托管服务器。
+[GitHub Pages](https://pages.github.com/) 是 GitHub 所提供的免费博客托管平台，并且有 GitHub 免费提供的域名，例如 https://username.github.io/，
+很大程度上减少了维护一个个人博客的成本。其本质上来说，就是静态网站的托管服务器。
 
 
 ### Hexo
 
 [Hexo](https://hexo.io/) 是一个快速搭建博客的框架，依赖于 Node.js，拥有丰富多彩的[主题](https://hexo.io/themes/)，能够直接将撰写好的 MarkDown 文件编译成为静态文件，嵌入到网站整体当中。
 
-同时，Hexo 还能方便的与 GitHub Pages，BAE，SAE 结合，使用其封装好的 `hexo-cli` 命令行工具，一键部署更新后的代码到各个平台。
+同时，Hexo 还能方便的与 GitHub Pages 结合，使用其封装好的 `hexo-cli` 命令行工具，一键部署更新后的代码到各个平台。
 
 ---
 
